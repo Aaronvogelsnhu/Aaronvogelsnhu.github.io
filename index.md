@@ -42,7 +42,10 @@ Grazioso Salvare demonstrates my database skills. I've added MongoDB validation,
 [Download the enhanced LumberTrack ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/LumberTrack_enhanced.zip)
 
 ### Databases: Grazioso Salvare
-[Add the narrative and links to the original and enhanced artifacts.]
+
+[Download the original Grazioso Salvare ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/Grazioso-og.zip)
+
+[Download the enhanced Grazioso Salvare ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/Grazioso_enhanced.zip)
 
 ## Computer Science Program Outcomes
 
