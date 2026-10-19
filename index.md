@@ -31,18 +31,18 @@ Grazioso Salvare demonstrates my database skills. I've added MongoDB validation,
 
 ### Software Design and Engineering: Travlr Getaways
 
-- [Original artifact ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/travlr-og.zip)
-- [Enhanced artifact ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/releases/tag/travlr-enhanced-v1.0)
-- [Travlr enhancement narrative](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/CS499_Milestone_Two_Narrative.docx)
+- [Download the original Travlr Getaways ZIP](https://raw.githubusercontent.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/main/travlr-og.zip)
+- [Download the enhanced Travlr Getaways ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/releases/download/travlr-enhanced-v1.0/travlr_enhanced.zip)
+- [Download the Travlr enhancement narrative (DOCX)](https://raw.githubusercontent.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/main/CS499_Milestone_Two_Narrative.docx)
 
 ### Algorithms and Data Structures: LumberTrack Inventory
 
-- [Original artifact ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/LumberTrack-og.zip)
-- [Enhanced artifact ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/LumberTrack_enhanced.zip)
-- [LumberTrack enhancement narrative](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/CS499_Milestone_Three_Narrative.docx)
+- [Download the original LumberTrack ZIP](https://raw.githubusercontent.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/main/LumberTrack-og.zip)
+- [Download the enhanced LumberTrack ZIP](https://raw.githubusercontent.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/main/LumberTrack_enhanced.zip)
+- [Download the LumberTrack enhancement narrative (DOCX)](https://raw.githubusercontent.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/main/CS499_Milestone_Three_Narrative.docx)
 
 ### Databases: Grazioso Salvare
 
-- [Original artifact ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/Grazioso-og.zip)
-- [Enhanced artifact ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/Grazioso_enhanced.zip)
-- [Grazioso Salvare database narrative](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/CS499_Milestone_Four_Narrative.docx)
+- [Download the original Grazioso Salvare ZIP](https://raw.githubusercontent.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/main/Grazioso-og.zip)
+- [Download the enhanced Grazioso Salvare ZIP](https://raw.githubusercontent.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/main/Grazioso_enhanced.zip)
+- [Download the Grazioso Salvare database narrative (DOCX)](https://raw.githubusercontent.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/main/CS499_Milestone_Four_Narrative.docx)
