@@ -25,7 +25,7 @@ Grazioso Salvare demonstrates my database skills. I've added MongoDB validation,
 
 ## Code Review
 
-[Add the link to your code review video here.]
+[Watch my Code Review](https://youtu.be/oBNCUKO5Zw0)
 
 ## Enhanced Artifacts and Narratives
 
