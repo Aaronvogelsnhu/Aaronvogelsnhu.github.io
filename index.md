@@ -36,7 +36,10 @@ Grazioso Salvare demonstrates my database skills. I've added MongoDB validation,
 [Download the enhanced Travlr Getaways ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/releases/tag/travlr-enhanced-v1.0)
 
 ### Algorithms and Data Structures: LumberTrack Inventory
-[Add the narrative and links to the original and enhanced artifacts.]
+
+[Download the original LumberTrack ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/LumberTrack-og.zip)
+
+[Download the enhanced LumberTrack ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/LumberTrack_enhanced.zip)
 
 ### Databases: Grazioso Salvare
 [Add the narrative and links to the original and enhanced artifacts.]
