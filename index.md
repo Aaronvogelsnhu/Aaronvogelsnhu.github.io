@@ -47,6 +47,3 @@ Grazioso Salvare demonstrates my database skills. I've added MongoDB validation,
 
 [Download the enhanced Grazioso Salvare ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/Grazioso_enhanced.zip)
 
-## Computer Science Program Outcomes
-
-[Explain how the work in your portfolio demonstrates the five program outcomes.]
