@@ -31,19 +31,18 @@ Grazioso Salvare demonstrates my database skills. I've added MongoDB validation,
 
 ### Software Design and Engineering: Travlr Getaways
 
-[Download the original Travlr Getaways ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/travlr-og.zip)
-
-[Download the enhanced Travlr Getaways ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/releases/tag/travlr-enhanced-v1.0)
+- [Original artifact ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/travlr-og.zip)
+- [Enhanced artifact ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/releases/tag/travlr-enhanced-v1.0)
+- [Travlr enhancement narrative](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/CS499_Milestone_Two_Narrative.docx)
 
 ### Algorithms and Data Structures: LumberTrack Inventory
 
-[Download the original LumberTrack ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/LumberTrack-og.zip)
-
-[Download the enhanced LumberTrack ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/LumberTrack_enhanced.zip)
+- [Original artifact ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/LumberTrack-og.zip)
+- [Enhanced artifact ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/LumberTrack_enhanced.zip)
+- [LumberTrack enhancement narrative](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/CS499_Milestone_Three_Narrative.docx)
 
 ### Databases: Grazioso Salvare
 
-[Download the original Grazioso Salvare ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/Grazioso-og.zip)
-
-[Download the enhanced Grazioso Salvare ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/Grazioso_enhanced.zip)
-
+- [Original artifact ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/Grazioso-og.zip)
+- [Enhanced artifact ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/Grazioso_enhanced.zip)
+- [Grazioso Salvare database narrative](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/CS499_Milestone_Four_Narrative.docx)
