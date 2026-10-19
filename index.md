@@ -30,7 +30,10 @@ Grazioso Salvare demonstrates my database skills. I've added MongoDB validation,
 ## Enhanced Artifacts and Narratives
 
 ### Software Design and Engineering: Travlr Getaways
-[Add the narrative and links to the original and enhanced artifacts.]
+
+[Download the original Travlr Getaways ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/travlr-og.zip)
+
+[Download the enhanced Travlr Getaways ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/releases/tag/travlr-enhanced-v1.0)
 
 ### Algorithms and Data Structures: LumberTrack Inventory
 [Add the narrative and links to the original and enhanced artifacts.]
