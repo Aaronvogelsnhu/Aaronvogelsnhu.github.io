@@ -35,7 +35,7 @@ Grazioso Salvare demonstrates my database skills. I've added MongoDB validation,
 
 [Download the enhanced Travlr Getaways ZIP](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/releases/tag/travlr-enhanced-v1.0)
 
-[View the Travlr Getaways narrative PDF](https://raw.githubusercontent.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/main/CS499_Milestone_Two_Narrative.pdf)
+[View the Travlr Getaways narrative PDF](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/CS499_Milestone_Two_Narrative.pdf)
 
 ### Algorithms and Data Structures: LumberTrack Inventory
 
@@ -43,7 +43,7 @@ Grazioso Salvare demonstrates my database skills. I've added MongoDB validation,
 
 [Download the enhanced LumberTrack ZIP](https://raw.githubusercontent.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/main/LumberTrack_enhanced.zip)
 
-[View the LumberTrack narrative PDF](https://raw.githubusercontent.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/main/CS499_Milestone_Three_Narrative.pdf)
+[View the LumberTrack narrative PDF](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/CS499_Milestone_Three_Narrative.pdf)
 
 ### Databases: Grazioso Salvare
 
@@ -51,4 +51,4 @@ Grazioso Salvare demonstrates my database skills. I've added MongoDB validation,
 
 [Download the enhanced Grazioso Salvare ZIP](https://raw.githubusercontent.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/main/Grazioso_enhanced.zip)
 
-[View the Grazioso Salvare narrative PDF](https://raw.githubusercontent.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/main/CS499_Milestone_Four_Narrative.pdf)
+[View the Grazioso Salvare narrative PDF](https://github.com/Aaronvogelsnhu/Aaronvogelsnhu.github.io/blob/main/CS499_Milestone_Four_Narrative.pdf)
